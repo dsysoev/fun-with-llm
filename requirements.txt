@@ -1,5 +1,3 @@
-openai
-streamlit
 langchain-community
 pypdf 
 pycryptodome
