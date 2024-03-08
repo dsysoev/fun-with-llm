@@ -1,0 +1,7 @@
+openai
+streamlit
+langchain-community
+pypdf 
+pycryptodome
+chromadb==0.3.29
+pysqlite3-binary
