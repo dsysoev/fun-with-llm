@@ -1,6 +1,5 @@
 # Fun with LLM
 
-
 ## Leveraging information from PDF files into LLM
 
 ### Install 
@@ -9,13 +8,13 @@
 2. Install requirements
 ```bash
 # python 3.9.18
-pip install -r requirements.txt
+>>> pip install -r requirements.txt
 ```
 
 ### Usage 
 
 ```bash
-python src/pdf2llm.py data/1706.03762.pdf
+>>> python src/pdf2llm.py data/1706.03762.pdf
 #######################
 Input your prompt here: write the authors of the article
 #######################
